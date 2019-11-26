@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: RaihanPortfolio_production
-  username: RaihanPortfolio
-  password: <%= ENV['RAIHANPORTFOLIO_DATABASE_PASSWORD'] %>
+  database: defqiebvtgb4j
+  username: vobswmavjboefy
+  password: c086653532c07c36c9a395602f6c605c25047b8a8bbe425d1774ff2b2fadb08e
